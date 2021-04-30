@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e47d9d6-aacf-433d-8d5b-4699eadfcbca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/sample1.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FullstackJavaSpring4Batch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/JavaFullStack15FebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/JavaFullStack15FebApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +53,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -60,21 +62,37 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1reguiqqLkqcliStIqK9TdCXBoQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FullstackJavaSpring4Batch" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="instant.run" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Mobile">
+    <configuration name="Mobile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.JavaFullStack15Feb.ioc.Mobile" />
+      <module name="JavaFullStack15Feb.JavaFullStack15Feb.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.JavaFullStack15Feb.ioc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JavaFullStack15Feb [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -98,6 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mobile" />
         <item itemvalue="Gradle.JavaFullStack15Feb [bootRun]" />
       </list>
     </recent_temporary>
@@ -127,5 +146,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
