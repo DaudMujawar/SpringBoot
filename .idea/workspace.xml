@@ -6,10 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="4e47d9d6-aacf-433d-8d5b-4699eadfcbca" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../FullstackJavaSpring4Batch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/di/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/di/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/JavaFullStack15Feb.JavaFullStack15Feb.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/JavaFullStack15Feb.JavaFullStack15Feb.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/jpa/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/jpa/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/jpa/EmployeeRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/JavaFullStack15FebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/JavaFullStack15FebApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFullStack15Feb/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFullStack15Feb/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +80,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../FullstackJavaSpring4Batch" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
