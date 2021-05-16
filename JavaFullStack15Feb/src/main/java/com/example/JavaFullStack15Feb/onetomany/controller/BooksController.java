@@ -6,12 +6,13 @@ import com.example.JavaFullStack15Feb.onetomany.repository.BooksRepo;
 import com.example.JavaFullStack15Feb.onetomany.repository.PagesRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-
+@RestController
 public class BooksController {
     @Autowired
     private BooksRepo booksRepo;

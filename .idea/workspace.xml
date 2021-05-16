@@ -6,20 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="4e47d9d6-aacf-433d-8d5b-4699eadfcbca" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../FullstackJavaSpring4Batch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/controller/BooksController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/domain/Books.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/domain/Pages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/repository/BooksRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/repository/PagesRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetoone/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetoone/domain/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetoone/domain/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetoone/repository/AddressRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetoone/repository/UserRepo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/JavaFullStack15FebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/JavaFullStack15FebApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/jpa/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/jpa/EmployeeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/jpa/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/jpa/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/controller/BooksController.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/controller/BooksController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/domain/Books.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/domain/Books.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/domain/Pages.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/domain/Pages.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +122,7 @@
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/JavaFullStack15Feb" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--stacktrace" />
+        <option name="scriptParameters" value="--scan" />
         <option name="taskDescriptions">
           <list />
         </option>
