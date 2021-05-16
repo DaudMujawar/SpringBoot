@@ -54,4 +54,27 @@ public class EmployeeController {
         return new ResponseEntity<>(update, HttpStatus.OK);
     }
 
+    @GetMapping(value = "findByName")
+    public ResponseEntity<?> findByName(@RequestParam(required = false) String name) {
+        Employee e = employeeRepository.findByName(name);
+        return new ResponseEntity<>(e, HttpStatus.OK);
+    }
+
+    @GetMapping(value = "findByNameLike")
+    public ResponseEntity<?> findByNameLike(@RequestParam(required = false) String name) {
+        List<Employee> e = employeeRepository.findByNameLikeDemo(name);
+        return new ResponseEntity<>(e, HttpStatus.OK);
+    }
+
+    @GetMapping(value = "findByNameStw")
+    public ResponseEntity<?> findByNameStw(@RequestParam(required = false) String name) {
+        List<Employee> e = employeeRepository.findByNameStartingWith(name);
+        return new ResponseEntity<>(e, HttpStatus.OK);
+    }
+
+    @GetMapping(value = "findByNameandAddress")
+    public ResponseEntity<?> findByNameandAddress(@RequestParam(required = false) String name, @RequestParam String address) {
+        List<Employee> e = employeeRepository.findByNameAndAddress(name, address);
+        return new ResponseEntity<>(e, HttpStatus.OK);
+    }
 }
