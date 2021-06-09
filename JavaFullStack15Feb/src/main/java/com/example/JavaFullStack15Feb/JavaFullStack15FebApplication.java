@@ -1,5 +1,8 @@
 package com.example.JavaFullStack15Feb;
 
+import com.example.JavaFullStack15Feb.aop.BoyStudent;
+import com.example.JavaFullStack15Feb.aop.GirlStudent;
+import com.example.JavaFullStack15Feb.aop.Human;
 import com.example.JavaFullStack15Feb.di.Student;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -20,6 +23,16 @@ public class JavaFullStack15FebApplication {
 //
 //        com.example.JavaFullStack15Feb.di.Student s2 = context.getBean(Student.class);
 //        s2.show();
+
+//        Human human = context.getBean(Human.class);
+//        human.wakeUp(5);
+
+        BoyStudent boyStudent = context.getBean(BoyStudent.class);
+        boyStudent.studyBoys(5,6);
+
+        GirlStudent girlStudent = context.getBean(GirlStudent.class);
+        girlStudent.studyGirls();
+
 
     }
 

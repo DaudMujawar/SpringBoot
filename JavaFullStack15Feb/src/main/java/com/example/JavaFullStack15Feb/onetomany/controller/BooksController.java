@@ -12,6 +12,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
+
 @RestController
 public class BooksController {
     @Autowired
@@ -39,8 +40,8 @@ public class BooksController {
 
         books.setPages(pages);
         booksRepo.save(books);
-        booksRepo.save(pages1);
-        booksRepo.save(pages2);
+        pagesRepo.save(pages1);
+        pagesRepo.save(pages2);
 
         return "Data saved.";
     }
