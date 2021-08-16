@@ -5,43 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e47d9d6-aacf-433d-8d5b-4699eadfcbca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../FullstackJavaSpring4Batch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.0.2/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.0.2/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.0.2/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.0.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.0.2/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/aop/BoyStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/aop/GirlStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/aop/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/jsonmanagebackref/controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/jsonmanagebackref/domain/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/jsonmanagebackref/domain/Orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/jsonmanagebackref/repository/CustomerRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/manytomany/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/manytomany/domain/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/manytomany/domain/Publisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/manytomany/repository/BookRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/manytomany/repository/PublisherRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany1/controller/CompanyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany1/domain/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany1/domain/Employees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany1/repository/companyRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany1/repository/employeesRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/spcall/controller/SpCallController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/spcall/repository/SpCallRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/JavaFullStack15FebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/JavaFullStack15FebApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/controller/BooksController.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/controller/BooksController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/domain/Books.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/domain/Books.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/domain/Pages.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/domain/Pages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/repository/BooksRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/repository/BooksRepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/repository/PagesRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/java/com/example/JavaFullStack15Feb/onetomany/repository/PagesRepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFullStack15Feb/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,11 +85,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FullstackJavaSpring4Batch" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="instant.run" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Gradle.JavaFullStack15Feb [bootRun]">
     <configuration name="JavaFullStack15FebApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
