@@ -89,7 +89,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager" selected="Gradle.JavaFullStack15Feb [bootRun]">
     <configuration name="JavaFullStack15FebApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
